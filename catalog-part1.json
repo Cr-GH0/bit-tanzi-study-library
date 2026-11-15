@@ -1,0 +1,202 @@
+[
+  {
+    "title": "教程 | 通吃所有harness的邪修打法就是把agent当成天赋异禀的傻子",
+    "url": "https://www.bilibili.com/video/BV1B2Wk65Erg/",
+    "context": "教程 | 通吃所有harness的邪修打法就是把agent当成天赋异禀的傻子"
+  },
+  {
+    "title": "AI封面总差一层？利用skill和\"借鉴\"的思路3步出图",
+    "url": "https://www.bilibili.com/video/BV1L64F6FE2f/",
+    "context": "AI封面总差一层？利用skill和\"借鉴\"的思路3步出图"
+  },
+  {
+    "title": "purge还能这么玩？做了个dsh插件，让AI按你的设定说话",
+    "url": "https://www.bilibili.com/video/BV1LyHA6xEcd/",
+    "context": "purge还能这么玩？做了个dsh插件，让AI按你的设定说话"
+  },
+  {
+    "title": "2个开源skill搞定自媒体选题和热点追踪，下一步我想用StepX来实现自动化",
+    "url": "https://www.bilibili.com/video/BV1VyJa6wEAe/",
+    "context": "2个开源skill搞定自媒体选题和热点追踪，下一步我想用StepX来实现自动化"
+  },
+  {
+    "title": "震惊瘫坐 | 我一直对AI的迭代无感,直到opus5.5把我的skill打碎了",
+    "url": "https://www.bilibili.com/video/BV12dpj6EEn8/",
+    "context": "震惊瘫坐 | 我一直对AI的迭代无感,直到opus5.5把我的skill打碎了"
+  },
+  {
+    "title": "粘贴一个链接，视频就自动下载到你电脑里，我把视频下载封装成了一个skill",
+    "url": "https://www.bilibili.com/video/BV1sYHr67Edm/",
+    "context": "粘贴一个链接，视频就自动下载到你电脑里，我把视频下载封装成了一个skill"
+  },
+  {
+    "title": "我是如何在不到4分钟内做完一个视频的字幕的",
+    "url": "https://www.bilibili.com/video/BV1xGab6zEQV/",
+    "context": "我是如何在不到4分钟内做完一个视频的字幕的"
+  },
+  {
+    "title": "不会画画的我是如何在20多分钟用AI做出一集科普动画的",
+    "url": "https://www.bilibili.com/video/BV1UShe6REgF/",
+    "context": "不会画画的我是如何在20多分钟用AI做出一集科普动画的"
+  },
+  {
+    "title": "我的AI一直在骗我，这次我给它装了个真记忆",
+    "url": "https://www.bilibili.com/video/BV1BrYa6gEdr/",
+    "context": "我的AI一直在骗我，这次我给它装了个真记忆"
+  },
+  {
+    "title": "给AI装记忆机制有个鸡生蛋问题：记忆到底该谁来喂？我推翻了自己两遍设计，迭代出了第二个版本",
+    "url": "https://www.bilibili.com/video/BV197bn6pE8r/",
+    "context": "给AI装记忆机制有个鸡生蛋问题：记忆到底该谁来喂？我推翻了自己两遍设计，迭代出了第二个版本"
+  },
+  {
+    "title": "AI总失忆？我把vcp迁移成skill，让AI自己写日记，触景生情回想记忆",
+    "url": "https://www.bilibili.com/video/BV1K3tw6QEKx/",
+    "context": "AI总失忆？我把vcp迁移成skill，让AI自己写日记，触景生情回想记忆"
+  },
+  {
+    "title": "浅尝dsh和vcp，我发现酒馆生态能整个\"插\"进DeepSeek Harness？",
+    "url": "https://www.bilibili.com/video/BV1Ez8F6rE7d/",
+    "context": "浅尝dsh和vcp，我发现酒馆生态能整个\"插\"进DeepSeek Harness？"
+  },
+  {
+    "title": "酒馆越聊越贵？我用deepseek做了酒馆插件，把聊天历史压成摘要，提高缓存命中率",
+    "url": "https://www.bilibili.com/video/BV1aCuC6NEG1/",
+    "context": "酒馆越聊越贵？我用deepseek做了酒馆插件，把聊天历史压成摘要，提高缓存命中率"
+  },
+  {
+    "title": "最近挺火的manualtracking的手势交互，我用VibeCoding出来了（提示词 + 源码）。",
+    "url": "https://www.bilibili.com/video/BV1gRMX6REx5/",
+    "context": "最近挺火的manualtracking的手势交互，我用VibeCoding出来了（提示词 + 源码）。"
+  },
+  {
+    "title": "省token没有那么复杂，酒馆AI，ClaudeCode、Codex等AICoding工具都能用",
+    "url": "https://www.bilibili.com/video/BV15q3Y6jEYi/",
+    "context": "省token没有那么复杂，酒馆AI，ClaudeCode、Codex等AICoding工具都能用"
+  },
+  {
+    "title": "C盘红了先别急着花钱修，把这个提示词发给AI",
+    "url": "https://www.bilibili.com/video/BV1AKKt6vE24/",
+    "context": "C盘红了先别急着花钱修，把这个提示词发给AI"
+  },
+  {
+    "title": "酒馆 | SillyTavernPC+安卓部署指南，手机也能跑AI角色扮演",
+    "url": "https://www.bilibili.com/video/BV16KKG6EETB/",
+    "context": "酒馆 | SillyTavernPC+安卓部署指南，手机也能跑AI角色扮演"
+  },
+  {
+    "title": "酒馆 | 买API之前没人告诉你的事——中转站到底是什么，我到底要不要买中转站的token",
+    "url": "https://www.bilibili.com/video/BV1wfNx64EXF/",
+    "context": "酒馆 | 买API之前没人告诉你的事——中转站到底是什么，我到底要不要买中转站的token"
+  },
+  {
+    "title": "为什么 AI 总是搞错人设、抢话？一个流程讲透 LLM和酒馆之间的秘密",
+    "url": "https://www.bilibili.com/video/BV1FyMw68ERy/",
+    "context": "为什么 AI 总是搞错人设、抢话？一个流程讲透 LLM和酒馆之间的秘密"
+  },
+  {
+    "title": "酒馆 | 我只是加了个正则，SillyTavern就提高了一个level，做前端只需要这四步",
+    "url": "https://www.bilibili.com/video/BV17H7p6uEDE/",
+    "context": "酒馆 | 我只是加了个正则，SillyTavern就提高了一个level，做前端只需要这四步"
+  },
+  {
+    "title": "酒馆|被世界书位置参数劝退？只需要记住SillyTavern的这3个参数就够了，让AI不再OOC",
+    "url": "https://www.bilibili.com/video/BV1rHjn6iEyg/",
+    "context": "酒馆|被世界书位置参数劝退？只需要记住SillyTavern的这3个参数就够了，让AI不再OOC"
+  },
+  {
+    "title": "酒馆 | 别急着被劝退，通过SillyTavern无痛学习AI知识，我怎么玩着玩着就入门了AI",
+    "url": "https://www.bilibili.com/video/BV1o5JJ6AEth/",
+    "context": "酒馆 | 别急着被劝退，通过SillyTavern无痛学习AI知识，我怎么玩着玩着就入门了AI"
+  },
+  {
+    "title": "为了吸引你们点进来，我研究出了这套6分钟AI生成封面的邪修打法！",
+    "url": "https://www.bilibili.com/video/BV1K6Vz6xE2f/",
+    "context": "为了吸引你们点进来，我研究出了这套6分钟AI生成封面的邪修打法！"
+  },
+  {
+    "title": "6分钟带你了解RAG的三个核心节点",
+    "url": "https://www.bilibili.com/video/BV1QnVG6WEXe/",
+    "context": "6分钟带你了解RAG的三个核心节点"
+  },
+  {
+    "title": "别再傻傻降重了！AIGC检测的真正逻辑是...（内涵降重焚诀）",
+    "url": "https://www.bilibili.com/video/BV1cvLC6AE6d/",
+    "context": "别再傻傻降重了！AIGC检测的真正逻辑是...（内涵降重焚诀）"
+  },
+  {
+    "title": "《给阿嬷的情书》 | AI的\"预制菜\"是有价值，但是我好像更稀罕那些非框架、非模板所创造出来的故事",
+    "url": "https://www.bilibili.com/video/BV1Ek5q6gEsn/",
+    "context": "《给阿嬷的情书》 | AI的\"预制菜\"是有价值，但是我好像更稀罕那些非框架、非模板所创造出来的故事"
+  },
+  {
+    "title": "我vibe了多个“野鸡项目”后，意识到了产品是要这样做的.......",
+    "url": "https://www.bilibili.com/video/BV1ThR9BPET1/",
+    "context": "我vibe了多个“野鸡项目”后，意识到了产品是要这样做的......."
+  },
+  {
+    "title": "B站后台数据太散了，不知道怎么分析，我写了个项目让AI帮你......",
+    "url": "https://www.bilibili.com/video/BV1449eB3Exf/",
+    "context": "B站后台数据太散了，不知道怎么分析，我写了个项目让AI帮你......"
+  },
+  {
+    "title": "用AI处理一个痛点问题，论文到底怎么写？让Agent这样做......",
+    "url": "https://www.bilibili.com/video/BV1UsoaByEkv/",
+    "context": "用AI处理一个痛点问题，论文到底怎么写？让Agent这样做......"
+  },
+  {
+    "title": "你的PPT可以不只是PPTX，还可以是......",
+    "url": "https://www.bilibili.com/video/BV1hxdzBPEJi/",
+    "context": "你的PPT可以不只是PPTX，还可以是......"
+  },
+  {
+    "title": "Agentic AI被市场挤占了，但是多个Agentic AI组成的AI编排很nice",
+    "url": "https://www.bilibili.com/video/BV1BsDxBfEPN/",
+    "context": "Agentic AI被市场挤占了，但是多个Agentic AI组成的AI编排很nice"
+  },
+  {
+    "title": "我在TRAE举办的AICoding活动中被HR吊打了，但我却很高兴",
+    "url": "https://www.bilibili.com/video/BV1weDVBNEXo/",
+    "context": "我在TRAE举办的AICoding活动中被HR吊打了，但我却很高兴"
+  },
+  {
+    "title": "anthropic好贴心！泄露ClaudeCode源码给我学习AI编排",
+    "url": "https://www.bilibili.com/video/BV1Hs9jBUEra/",
+    "context": "anthropic好贴心！泄露ClaudeCode源码给我学习AI编排"
+  },
+  {
+    "title": "同样都是AI Skill架构设计，AI前后给了两个相反答案",
+    "url": "https://www.bilibili.com/video/BV1YqXbBNEXy/",
+    "context": "同样都是AI Skill架构设计，AI前后给了两个相反答案"
+  },
+  {
+    "title": "花了整个周末制作Skill，实现自动化，我发现：Skill是写给AI的SOP！",
+    "url": "https://www.bilibili.com/video/BV1tLQBBEEaJ/",
+    "context": "花了整个周末制作Skill，实现自动化，我发现：Skill是写给AI的SOP！"
+  },
+  {
+    "title": "就让AI替你把PPT做掉！PPTSkill制作思路和分享",
+    "url": "https://www.bilibili.com/video/BV1ocAczHE1V/",
+    "context": "就让AI替你把PPT做掉！PPTSkill制作思路和分享"
+  },
+  {
+    "title": "OpenRouter神秘模型霸榜!真相揭晓竟是小米",
+    "url": "https://www.bilibili.com/video/BV1tpA5zyEZq/",
+    "context": "OpenRouter神秘模型霸榜!真相揭晓竟是小米"
+  },
+  {
+    "title": "一键授予OpenClaw权限？这等于在公网裸奔！先别急着卸载龙虾，可以尝试给龙虾加把锁！",
+    "url": "https://www.bilibili.com/video/BV1gHw9zREYB/",
+    "context": "一键授予OpenClaw权限？这等于在公网裸奔！先别急着卸载龙虾，可以尝试给龙虾加把锁！"
+  },
+  {
+    "title": "如果你还没上手OpenClaw，那就先等会，看完我这期案例视频，再来考虑怎么上手",
+    "url": "https://www.bilibili.com/video/BV1xvcSziEUS/",
+    "context": "如果你还没上手OpenClaw，那就先等会，看完我这期案例视频，再来考虑怎么上手"
+  },
+  {
+    "title": "装了OpenClaw只会聊天？这11个Skill让你的龙虾真正武装起来",
+    "url": "https://www.bilibili.com/video/BV1qVPfzpEnk/",
+    "context": "装了OpenClaw只会聊天？这11个Skill让你的龙虾真正武装起来"
+  }
+]

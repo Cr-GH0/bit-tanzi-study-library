@@ -1,0 +1,8 @@
+node_modules/
+.env
+.env.*
+!.env.example
+subtitles/
+*-internal/
+.DS_Store
+Thumbs.db

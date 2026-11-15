@@ -1,0 +1,567 @@
+[
+  {
+    "title": "教程 | 通吃所有harness的邪修打法就是把agent当成天赋异禀的傻子",
+    "url": "https://www.bilibili.com/video/BV1B2Wk65Erg/",
+    "context": "教程 | 通吃所有harness的邪修打法就是把agent当成天赋异禀的傻子"
+  },
+  {
+    "title": "AI封面总差一层？利用skill和\"借鉴\"的思路3步出图",
+    "url": "https://www.bilibili.com/video/BV1L64F6FE2f/",
+    "context": "AI封面总差一层？利用skill和\"借鉴\"的思路3步出图"
+  },
+  {
+    "title": "purge还能这么玩？做了个dsh插件，让AI按你的设定说话",
+    "url": "https://www.bilibili.com/video/BV1LyHA6xEcd/",
+    "context": "purge还能这么玩？做了个dsh插件，让AI按你的设定说话"
+  },
+  {
+    "title": "2个开源skill搞定自媒体选题和热点追踪，下一步我想用StepX来实现自动化",
+    "url": "https://www.bilibili.com/video/BV1VyJa6wEAe/",
+    "context": "2个开源skill搞定自媒体选题和热点追踪，下一步我想用StepX来实现自动化"
+  },
+  {
+    "title": "震惊瘫坐 | 我一直对AI的迭代无感,直到opus5.5把我的skill打碎了",
+    "url": "https://www.bilibili.com/video/BV12dpj6EEn8/",
+    "context": "震惊瘫坐 | 我一直对AI的迭代无感,直到opus5.5把我的skill打碎了"
+  },
+  {
+    "title": "粘贴一个链接，视频就自动下载到你电脑里，我把视频下载封装成了一个skill",
+    "url": "https://www.bilibili.com/video/BV1sYHr67Edm/",
+    "context": "粘贴一个链接，视频就自动下载到你电脑里，我把视频下载封装成了一个skill"
+  },
+  {
+    "title": "我是如何在不到4分钟内做完一个视频的字幕的",
+    "url": "https://www.bilibili.com/video/BV1xGab6zEQV/",
+    "context": "我是如何在不到4分钟内做完一个视频的字幕的"
+  },
+  {
+    "title": "不会画画的我是如何在20多分钟用AI做出一集科普动画的",
+    "url": "https://www.bilibili.com/video/BV1UShe6REgF/",
+    "context": "不会画画的我是如何在20多分钟用AI做出一集科普动画的"
+  },
+  {
+    "title": "我的AI一直在骗我，这次我给它装了个真记忆",
+    "url": "https://www.bilibili.com/video/BV1BrYa6gEdr/",
+    "context": "我的AI一直在骗我，这次我给它装了个真记忆"
+  },
+  {
+    "title": "给AI装记忆机制有个鸡生蛋问题：记忆到底该谁来喂？我推翻了自己两遍设计，迭代出了第二个版本",
+    "url": "https://www.bilibili.com/video/BV197bn6pE8r/",
+    "context": "给AI装记忆机制有个鸡生蛋问题：记忆到底该谁来喂？我推翻了自己两遍设计，迭代出了第二个版本"
+  },
+  {
+    "title": "AI总失忆？我把vcp迁移成skill，让AI自己写日记，触景生情回想记忆",
+    "url": "https://www.bilibili.com/video/BV1K3tw6QEKx/",
+    "context": "AI总失忆？我把vcp迁移成skill，让AI自己写日记，触景生情回想记忆"
+  },
+  {
+    "title": "浅尝dsh和vcp，我发现酒馆生态能整个\"插\"进DeepSeek Harness？",
+    "url": "https://www.bilibili.com/video/BV1Ez8F6rE7d/",
+    "context": "浅尝dsh和vcp，我发现酒馆生态能整个\"插\"进DeepSeek Harness？"
+  },
+  {
+    "title": "酒馆越聊越贵？我用deepseek做了酒馆插件，把聊天历史压成摘要，提高缓存命中率",
+    "url": "https://www.bilibili.com/video/BV1aCuC6NEG1/",
+    "context": "酒馆越聊越贵？我用deepseek做了酒馆插件，把聊天历史压成摘要，提高缓存命中率"
+  },
+  {
+    "title": "最近挺火的manualtracking的手势交互，我用VibeCoding出来了（提示词 + 源码）。",
+    "url": "https://www.bilibili.com/video/BV1gRMX6REx5/",
+    "context": "最近挺火的manualtracking的手势交互，我用VibeCoding出来了（提示词 + 源码）。"
+  },
+  {
+    "title": "省token没有那么复杂，酒馆AI，ClaudeCode、Codex等AICoding工具都能用",
+    "url": "https://www.bilibili.com/video/BV15q3Y6jEYi/",
+    "context": "省token没有那么复杂，酒馆AI，ClaudeCode、Codex等AICoding工具都能用"
+  },
+  {
+    "title": "C盘红了先别急着花钱修，把这个提示词发给AI",
+    "url": "https://www.bilibili.com/video/BV1AKKt6vE24/",
+    "context": "C盘红了先别急着花钱修，把这个提示词发给AI"
+  },
+  {
+    "title": "酒馆 | SillyTavernPC+安卓部署指南，手机也能跑AI角色扮演",
+    "url": "https://www.bilibili.com/video/BV16KKG6EETB/",
+    "context": "酒馆 | SillyTavernPC+安卓部署指南，手机也能跑AI角色扮演"
+  },
+  {
+    "title": "酒馆 | 买API之前没人告诉你的事——中转站到底是什么，我到底要不要买中转站的token",
+    "url": "https://www.bilibili.com/video/BV1wfNx64EXF/",
+    "context": "酒馆 | 买API之前没人告诉你的事——中转站到底是什么，我到底要不要买中转站的token"
+  },
+  {
+    "title": "为什么 AI 总是搞错人设、抢话？一个流程讲透 LLM和酒馆之间的秘密",
+    "url": "https://www.bilibili.com/video/BV1FyMw68ERy/",
+    "context": "为什么 AI 总是搞错人设、抢话？一个流程讲透 LLM和酒馆之间的秘密"
+  },
+  {
+    "title": "酒馆 | 我只是加了个正则，SillyTavern就提高了一个level，做前端只需要这四步",
+    "url": "https://www.bilibili.com/video/BV17H7p6uEDE/",
+    "context": "酒馆 | 我只是加了个正则，SillyTavern就提高了一个level，做前端只需要这四步"
+  },
+  {
+    "title": "酒馆|被世界书位置参数劝退？只需要记住SillyTavern的这3个参数就够了，让AI不再OOC",
+    "url": "https://www.bilibili.com/video/BV1rHjn6iEyg/",
+    "context": "酒馆|被世界书位置参数劝退？只需要记住SillyTavern的这3个参数就够了，让AI不再OOC"
+  },
+  {
+    "title": "酒馆 | 别急着被劝退，通过SillyTavern无痛学习AI知识，我怎么玩着玩着就入门了AI",
+    "url": "https://www.bilibili.com/video/BV1o5JJ6AEth/",
+    "context": "酒馆 | 别急着被劝退，通过SillyTavern无痛学习AI知识，我怎么玩着玩着就入门了AI"
+  },
+  {
+    "title": "为了吸引你们点进来，我研究出了这套6分钟AI生成封面的邪修打法！",
+    "url": "https://www.bilibili.com/video/BV1K6Vz6xE2f/",
+    "context": "为了吸引你们点进来，我研究出了这套6分钟AI生成封面的邪修打法！"
+  },
+  {
+    "title": "6分钟带你了解RAG的三个核心节点",
+    "url": "https://www.bilibili.com/video/BV1QnVG6WEXe/",
+    "context": "6分钟带你了解RAG的三个核心节点"
+  },
+  {
+    "title": "别再傻傻降重了！AIGC检测的真正逻辑是...（内涵降重焚诀）",
+    "url": "https://www.bilibili.com/video/BV1cvLC6AE6d/",
+    "context": "别再傻傻降重了！AIGC检测的真正逻辑是...（内涵降重焚诀）"
+  },
+  {
+    "title": "《给阿嬷的情书》 | AI的\"预制菜\"是有价值，但是我好像更稀罕那些非框架、非模板所创造出来的故事",
+    "url": "https://www.bilibili.com/video/BV1Ek5q6gEsn/",
+    "context": "《给阿嬷的情书》 | AI的\"预制菜\"是有价值，但是我好像更稀罕那些非框架、非模板所创造出来的故事"
+  },
+  {
+    "title": "我vibe了多个“野鸡项目”后，意识到了产品是要这样做的.......",
+    "url": "https://www.bilibili.com/video/BV1ThR9BPET1/",
+    "context": "我vibe了多个“野鸡项目”后，意识到了产品是要这样做的......."
+  },
+  {
+    "title": "B站后台数据太散了，不知道怎么分析，我写了个项目让AI帮你......",
+    "url": "https://www.bilibili.com/video/BV1449eB3Exf/",
+    "context": "B站后台数据太散了，不知道怎么分析，我写了个项目让AI帮你......"
+  },
+  {
+    "title": "用AI处理一个痛点问题，论文到底怎么写？让Agent这样做......",
+    "url": "https://www.bilibili.com/video/BV1UsoaByEkv/",
+    "context": "用AI处理一个痛点问题，论文到底怎么写？让Agent这样做......"
+  },
+  {
+    "title": "你的PPT可以不只是PPTX，还可以是......",
+    "url": "https://www.bilibili.com/video/BV1hxdzBPEJi/",
+    "context": "你的PPT可以不只是PPTX，还可以是......"
+  },
+  {
+    "title": "Agentic AI被市场挤占了，但是多个Agentic AI组成的AI编排很nice",
+    "url": "https://www.bilibili.com/video/BV1BsDxBfEPN/",
+    "context": "Agentic AI被市场挤占了，但是多个Agentic AI组成的AI编排很nice"
+  },
+  {
+    "title": "我在TRAE举办的AICoding活动中被HR吊打了，但我却很高兴",
+    "url": "https://www.bilibili.com/video/BV1weDVBNEXo/",
+    "context": "我在TRAE举办的AICoding活动中被HR吊打了，但我却很高兴"
+  },
+  {
+    "title": "anthropic好贴心！泄露ClaudeCode源码给我学习AI编排",
+    "url": "https://www.bilibili.com/video/BV1Hs9jBUEra/",
+    "context": "anthropic好贴心！泄露ClaudeCode源码给我学习AI编排"
+  },
+  {
+    "title": "同样都是AI Skill架构设计，AI前后给了两个相反答案",
+    "url": "https://www.bilibili.com/video/BV1YqXbBNEXy/",
+    "context": "同样都是AI Skill架构设计，AI前后给了两个相反答案"
+  },
+  {
+    "title": "花了整个周末制作Skill，实现自动化，我发现：Skill是写给AI的SOP！",
+    "url": "https://www.bilibili.com/video/BV1tLQBBEEaJ/",
+    "context": "花了整个周末制作Skill，实现自动化，我发现：Skill是写给AI的SOP！"
+  },
+  {
+    "title": "就让AI替你把PPT做掉！PPTSkill制作思路和分享",
+    "url": "https://www.bilibili.com/video/BV1ocAczHE1V/",
+    "context": "就让AI替你把PPT做掉！PPTSkill制作思路和分享"
+  },
+  {
+    "title": "OpenRouter神秘模型霸榜!真相揭晓竟是小米",
+    "url": "https://www.bilibili.com/video/BV1tpA5zyEZq/",
+    "context": "OpenRouter神秘模型霸榜!真相揭晓竟是小米"
+  },
+  {
+    "title": "一键授予OpenClaw权限？这等于在公网裸奔！先别急着卸载龙虾，可以尝试给龙虾加把锁！",
+    "url": "https://www.bilibili.com/video/BV1gHw9zREYB/",
+    "context": "一键授予OpenClaw权限？这等于在公网裸奔！先别急着卸载龙虾，可以尝试给龙虾加把锁！"
+  },
+  {
+    "title": "如果你还没上手OpenClaw，那就先等会，看完我这期案例视频，再来考虑怎么上手",
+    "url": "https://www.bilibili.com/video/BV1xvcSziEUS/",
+    "context": "如果你还没上手OpenClaw，那就先等会，看完我这期案例视频，再来考虑怎么上手"
+  },
+  {
+    "title": "装了OpenClaw只会聊天？这11个Skill让你的龙虾真正武装起来",
+    "url": "https://www.bilibili.com/video/BV1qVPfzpEnk/",
+    "context": "装了OpenClaw只会聊天？这11个Skill让你的龙虾真正武装起来"
+  },
+  {
+    "title": "真理会过时，但“构石”永恒？带你围观学术界最不正经的shit论文期刊《SHIT奥利给》！",
+    "url": "https://www.bilibili.com/video/BV1YZPpz2EHf/",
+    "context": "真理会过时，但“构石”永恒？带你围观学术界最不正经的shit论文期刊《SHIT奥利给》！"
+  },
+  {
+    "title": "AI偷偷告诉我建站的零成本方法，聊着天把事儿干了，教你如何部署上线自己的个人博客独立网站",
+    "url": "https://www.bilibili.com/video/BV1ZxPkzgEAy/",
+    "context": "AI偷偷告诉我建站的零成本方法，聊着天把事儿干了，教你如何部署上线自己的个人博客独立网站"
+  },
+  {
+    "title": "一行代码没写！跟AI聊了一个下午开发了个人博客独立站！教你搭建了一个自己的个人博客独立站",
+    "url": "https://www.bilibili.com/video/BV1iqAhzuEUF/",
+    "context": "一行代码没写！跟AI聊了一个下午开发了个人博客独立站！教你搭建了一个自己的个人博客独立站"
+  },
+  {
+    "title": "教你如何两天内用AI搭建了一个自己的个人博客独立站（前期准备）",
+    "url": "https://www.bilibili.com/video/BV1xsfMBLE66/",
+    "context": "教你如何两天内用AI搭建了一个自己的个人博客独立站（前期准备）"
+  },
+  {
+    "title": "新番老番在即，这三款动漫软件满足你的看番需求，内含整理包",
+    "url": "https://www.bilibili.com/video/BV19ncbzsEkE/",
+    "context": "新番老番在即，这三款动漫软件满足你的看番需求，内含整理包"
+  },
+  {
+    "title": "为了把握住春节这个黄金涨粉阶段，我用AI做了个这个玩意儿......",
+    "url": "https://www.bilibili.com/video/BV1f3cbzhECp/",
+    "context": "为了把握住春节这个黄金涨粉阶段，我用AI做了个这个玩意儿......"
+  },
+  {
+    "title": "拒绝资源轻易被和谐？试试这个加密神器，防检测、防窃取，资源稳如泰山！",
+    "url": "https://www.bilibili.com/video/BV1ADFmz9EPS/",
+    "context": "拒绝资源轻易被和谐？试试这个加密神器，防检测、防窃取，资源稳如泰山！"
+  },
+  {
+    "title": "【酒馆】| 酒馆聊天记录太长？酒馆AI聊久了变“弱智”？SillyTavern自动总结教程来了",
+    "url": "https://www.bilibili.com/video/BV1XMF5zVE9A/",
+    "context": "【酒馆】| 酒馆聊天记录太长？酒馆AI聊久了变“弱智”？SillyTavern自动总结教程来了"
+  },
+  {
+    "title": "别再找了！这两款看漫神器，承包你所有的动画、漫画与写真！",
+    "url": "https://www.bilibili.com/video/BV1Ri6rBgEDy/",
+    "context": "别再找了！这两款看漫神器，承包你所有的动画、漫画与写真！"
+  },
+  {
+    "title": "装机必备！两款适配电视-影视软件，内置海量接口，还能看直播？",
+    "url": "https://www.bilibili.com/video/BV1K3zvBgE29/",
+    "context": "装机必备！两款适配电视-影视软件，内置海量接口，还能看直播？"
+  },
+  {
+    "title": "玩酒馆居然就是学AI编程？这波我在大气层！杂谈酒馆世界书和AgentSkill",
+    "url": "https://www.bilibili.com/video/BV1MnzrBtEiJ/",
+    "context": "玩酒馆居然就是学AI编程？这波我在大气层！杂谈酒馆世界书和AgentSkill"
+  },
+  {
+    "title": "离谱！输入一句话，AI直接给我写了个做了个科普动画？",
+    "url": "https://www.bilibili.com/video/BV1CWzjBEESa/",
+    "context": "离谱！输入一句话，AI直接给我写了个做了个科普动画？"
+  },
+  {
+    "title": "系统优化，清理磁盘，文件加密、文件伪装，WiFI管理、启动项管理、文件粉碎！6MB塞进几十个功能？这大概是Windows最强的“瑞士军刀”！",
+    "url": "https://www.bilibili.com/video/BV1oBrQBkE5b/",
+    "context": "系统优化，清理磁盘，文件加密、文件伪装，WiFI管理、启动项管理、文件粉碎！6MB塞进几十个功能？这大概是Windows最强的“瑞士军刀”！"
+  },
+  {
+    "title": "数据结构期末考前看一遍，就是单纯的考前让我自己复习一下",
+    "url": "https://www.bilibili.com/video/BV1Bq6oBREqH/",
+    "context": "数据结构期末考前看一遍，就是单纯的考前让我自己复习一下"
+  },
+  {
+    "title": "谁教你这么读论文的？论文ai直接生成二次元游戏，太好玩了！",
+    "url": "https://www.bilibili.com/video/BV1iUqMBGE8Y/",
+    "context": "谁教你这么读论文的？论文ai直接生成二次元游戏，太好玩了！"
+  },
+  {
+    "title": "别再用录屏了！这款免费开源的神器-猫抓，帮你搞定网页视频下载。",
+    "url": "https://www.bilibili.com/video/BV17biqBREhc/",
+    "context": "别再用录屏了！这款免费开源的神器-猫抓，帮你搞定网页视频下载。"
+  },
+  {
+    "title": "免费离线语音克隆模型IndexTTS：支持情感克隆+自然语言控制，本地部署教程（含整理包）",
+    "url": "https://www.bilibili.com/video/BV1XTiuBKE9m/",
+    "context": "免费离线语音克隆模型IndexTTS：支持情感克隆+自然语言控制，本地部署教程（含整理包）"
+  },
+  {
+    "title": "Google这一波杀疯了？Gemini、AI Studio、NotebookLM深度实测，谁才是最强生产力？",
+    "url": "https://www.bilibili.com/video/BV1y9v6B3Exy/",
+    "context": "Google这一波杀疯了？Gemini、AI Studio、NotebookLM深度实测，谁才是最强生产力？"
+  },
+  {
+    "title": "基于自然语言让AI轻松生成流程图、示例图、架构图等等，结合drawio一键生成复杂图表",
+    "url": "https://www.bilibili.com/video/BV1GmqmBjEAV/",
+    "context": "基于自然语言让AI轻松生成流程图、示例图、架构图等等，结合drawio一键生成复杂图表"
+  },
+  {
+    "title": "esim科普，没有esim手机能开通Esim吗？出国旅游，留学，跨境电商，想要了解使用Esim技术看这儿！",
+    "url": "https://www.bilibili.com/video/BV1dQqhBzEEe/",
+    "context": "esim科普，没有esim手机能开通Esim吗？出国旅游，留学，跨境电商，想要了解使用Esim技术看这儿！"
+  },
+  {
+    "title": "一款Github开源的十分简洁的鼠标连点器",
+    "url": "https://www.bilibili.com/video/BV1bamdBRELK/",
+    "context": "一款Github开源的十分简洁的鼠标连点器"
+  },
+  {
+    "title": "Github开源的白噪音软件，收录下雨、篝火、火车等asmr音源，助眠、放松解压、学习用",
+    "url": "https://www.bilibili.com/video/BV1PxmsBbEVb/",
+    "context": "Github开源的白噪音软件，收录下雨、篝火、火车等asmr音源，助眠、放松解压、学习用"
+  },
+  {
+    "title": "我用AI生成了一个网络科普视频，小白简单理解网络入门基础",
+    "url": "https://www.bilibili.com/video/BV1kv2CB3EFv/",
+    "context": "我用AI生成了一个网络科普视频，小白简单理解网络入门基础"
+  },
+  {
+    "title": "3款看电视的软件推荐！直播、点播神器工具全收录，内含整理包",
+    "url": "https://www.bilibili.com/video/BV1sqSeBfEL8/",
+    "context": "3款看电视的软件推荐！直播、点播神器工具全收录，内含整理包"
+  },
+  {
+    "title": "【图片、文字盲水印】利用AI开发隐藏水印网页端，基于Blink_WaterMark偷偷往图片里加水印信息",
+    "url": "https://www.bilibili.com/video/BV1kSSPBuESd/",
+    "context": "【图片、文字盲水印】利用AI开发隐藏水印网页端，基于Blink_WaterMark偷偷往图片里加水印信息"
+  },
+  {
+    "title": "MediaDownloader 是一款超好用的视频下载神器，聚合了多个下载工具，可一键下载网页高清视频，支持播放列表打包，覆盖 YouTube 等多平台",
+    "url": "https://www.bilibili.com/video/BV12FUaBpEky/",
+    "context": "MediaDownloader 是一款超好用的视频下载神器，聚合了多个下载工具，可一键下载网页高清视频，支持播放列表打包，覆盖 YouTube 等多平台"
+  },
+  {
+    "title": "Github超好用的听歌软件——青听音乐，免费的音乐播放器app，多个平台音源，开发者长期维护，支持母带级音质下载，无损音质。",
+    "url": "https://www.bilibili.com/video/BV1TFyEBgESw/",
+    "context": "Github超好用的听歌软件——青听音乐，免费的音乐播放器app，多个平台音源，开发者长期维护，支持母带级音质下载，无损音质。"
+  },
+  {
+    "title": "零基础小白到底能不能AI开发？，在使用Cursor开发失败后的复盘后，我得出了这些结论和技巧。",
+    "url": "https://www.bilibili.com/video/BV18zCvBREq6/",
+    "context": "零基础小白到底能不能AI开发？，在使用Cursor开发失败后的复盘后，我得出了这些结论和技巧。"
+  },
+  {
+    "title": "AI编程初尝试，使用Cursor开发失败后的复盘，我找到了几个要避坑的点",
+    "url": "https://www.bilibili.com/video/BV1PZCDBZEq4/",
+    "context": "AI编程初尝试，使用Cursor开发失败后的复盘，我找到了几个要避坑的点"
+  },
+  {
+    "title": "激活Windows，关闭自动更新，清理电脑，不到1MB的神器Zyperwin，优化你的专属的电脑",
+    "url": "https://www.bilibili.com/video/BV1f2CLBEEwc/",
+    "context": "激活Windows，关闭自动更新，清理电脑，不到1MB的神器Zyperwin，优化你的专属的电脑"
+  },
+  {
+    "title": "Windows系统必装的清除工具，Github开源软件卸载工具Geek，彻底清理顽固恶劣的软件（包括注册表里的内容）",
+    "url": "https://www.bilibili.com/video/BV1iCkUBiErJ/",
+    "context": "Windows系统必装的清除工具，Github开源软件卸载工具Geek，彻底清理顽固恶劣的软件（包括注册表里的内容）"
+  },
+  {
+    "title": "睡觉也能听电子书啦，github开源项目ebook2audiobook能够一键克隆声音同时生成有声书",
+    "url": "https://www.bilibili.com/video/BV1SJ1xBeEaV/",
+    "context": "睡觉也能听电子书啦，github开源项目ebook2audiobook能够一键克隆声音同时生成有声书"
+  },
+  {
+    "title": "基于AI一键解析GitHub项目！对中文友好的高效阅读开源项目，入职第一天再也不用恶补项目源码了。",
+    "url": "https://www.bilibili.com/video/BV11eydBkEeU/",
+    "context": "基于AI一键解析GitHub项目！对中文友好的高效阅读开源项目，入职第一天再也不用恶补项目源码了。"
+  },
+  {
+    "title": "老乡鸡菜谱Github开源，CookLikeHOC教你像佬乡鸡那样做饭！",
+    "url": "https://www.bilibili.com/video/BV1JbxNzFEsU/",
+    "context": "老乡鸡菜谱Github开源，CookLikeHOC教你像佬乡鸡那样做饭！"
+  },
+  {
+    "title": "学习英语拒绝死板，四六级大学生看过来，Github开源项目幕境 (MuJing) 助你提高英语学习效率，边看剧边学习！",
+    "url": "https://www.bilibili.com/video/BV1AVsbzeEfN/",
+    "context": "学习英语拒绝死板，四六级大学生看过来，Github开源项目幕境 (MuJing) 助你提高英语学习效率，边看剧边学习！"
+  },
+  {
+    "title": "Github开源追漫软件Venera，一站式解决漫画需求，一键导入漫画源解锁高清漫画体验，漫画源接口配置，软件本体都整理好了。",
+    "url": "https://www.bilibili.com/video/BV1DMsczAEXW/",
+    "context": "Github开源追漫软件Venera，一站式解决漫画需求，一键导入漫画源解锁高清漫画体验，漫画源接口配置，软件本体都整理好了。"
+  },
+  {
+    "title": "SillyTavern【酒馆】| 一个视频告诉正则对于酒馆前端卡的必要性，还有前端卡的实现思路。。",
+    "url": "https://www.bilibili.com/video/BV1dq4ezgETN/",
+    "context": "SillyTavern【酒馆】| 一个视频告诉正则对于酒馆前端卡的必要性，还有前端卡的实现思路。。"
+  },
+  {
+    "title": "又一款桌面美化工具LightFrame，具有MineCraft主题插件，添加MC桌面物品栏等多种功能，全都给你整理好了",
+    "url": "https://www.bilibili.com/video/BV1zH4TzvEKm/",
+    "context": "又一款桌面美化工具LightFrame，具有MineCraft主题插件，添加MC桌面物品栏等多种功能，全都给你整理好了"
+  },
+  {
+    "title": "投简历总没回应？Github开源的简历助手帮你提高职位匹配度，避免你的简历输在起跑线",
+    "url": "https://www.bilibili.com/video/BV1dt4EzcEa9/",
+    "context": "投简历总没回应？Github开源的简历助手帮你提高职位匹配度，避免你的简历输在起跑线"
+  },
+  {
+    "title": "SillyTarvern【酒馆】 | 第一张基础卡写卡复盘，以及写卡机角色卡分享",
+    "url": "https://www.bilibili.com/video/BV1PExtzNEXc/",
+    "context": "SillyTarvern【酒馆】 | 第一张基础卡写卡复盘，以及写卡机角色卡分享"
+  },
+  {
+    "title": "AI角色扮演酒馆【Sillytavern】 | 预处理阶段的概念，正则+宏替换详解，学会了它，能够写前端卡，实现动态上下文和节省token",
+    "url": "https://www.bilibili.com/video/BV1qdHszqE6R/",
+    "context": "AI角色扮演酒馆【Sillytavern】 | 预处理阶段的概念，正则+宏替换详解，学会了它，能够写前端卡，实现动态上下文和节省token"
+  },
+  {
+    "title": "电子版教材怎么找？快来看看Github开源项目ChinaTextbook，包含所有的小初高以及大学的PDF电子版教材，全部无水印免费下载，国内镜像站直连",
+    "url": "https://www.bilibili.com/video/BV1sun1ziEuE/",
+    "context": "电子版教材怎么找？快来看看Github开源项目ChinaTextbook，包含所有的小初高以及大学的PDF电子版教材，全部无水印免费下载，国内镜像站直连"
+  },
+  {
+    "title": "AI角色扮演酒馆【Sillytavern】 | 预处理阶段的概念，正则+宏替换详解，学会了它，能够写前端卡，实现动态上下文和节省token",
+    "url": "https://www.bilibili.com/video/BV1PwnXzsE7s/",
+    "context": "AI角色扮演酒馆【Sillytavern】 | 预处理阶段的概念，正则+宏替换详解，学会了它，能够写前端卡，实现动态上下文和节省token"
+  },
+  {
+    "title": "Github上开源的游戏变速器工具，能加速进程到百倍速率甚至更高，提速网盘下载速度（谨慎操作）",
+    "url": "https://www.bilibili.com/video/BV1bsnxz9EgM/",
+    "context": "Github上开源的游戏变速器工具，能加速进程到百倍速率甚至更高，提速网盘下载速度（谨慎操作）"
+  },
+  {
+    "title": "AI角色扮演酒馆【SillyTavern】| 进一步了解预设和世界书，看完视频基本可以写点比较简单的角色卡了",
+    "url": "https://www.bilibili.com/video/BV14uWwztECD/",
+    "context": "AI角色扮演酒馆【SillyTavern】| 进一步了解预设和世界书，看完视频基本可以写点比较简单的角色卡了"
+  },
+  {
+    "title": "Daily arXiv AI Enhanced论文总结网站，每日抓取arXiv的论文，结合AI生成摘要，减少信息差",
+    "url": "https://www.bilibili.com/video/BV1BYpaz8EkK/",
+    "context": "Daily arXiv AI Enhanced论文总结网站，每日抓取arXiv的论文，结合AI生成摘要，减少信息差"
+  },
+  {
+    "title": "酒馆【SillyTarvern】| 酒馆预设是什么？带你深入了解预设的细节，剖析预设的本质，新手也能懂的配置逻辑",
+    "url": "https://www.bilibili.com/video/BV1AKpczmEUW/",
+    "context": "酒馆【SillyTarvern】| 酒馆预设是什么？带你深入了解预设的细节，剖析预设的本质，新手也能懂的配置逻辑"
+  },
+  {
+    "title": "开源好用的Github项目，galgame游戏实时AI翻译器LunaTranslator，包括资源整理以及基础教程，使用Hook或者OCR技术识别。",
+    "url": "https://www.bilibili.com/video/BV13aHSzcEH6/",
+    "context": "开源好用的Github项目，galgame游戏实时AI翻译器LunaTranslator，包括资源整理以及基础教程，使用Hook或者OCR技术识别。"
+  },
+  {
+    "title": "SillyTarvern【酒馆】| 什么是世界书，从提示词工程角度系统全面地学习世界书，帮你开启定制角色卡的第一步",
+    "url": "https://www.bilibili.com/video/BV1MKahzaExx/",
+    "context": "SillyTarvern【酒馆】| 什么是世界书，从提示词工程角度系统全面地学习世界书，帮你开启定制角色卡的第一步"
+  },
+  {
+    "title": "找不到想要的网试试这一个网盘搜索神器盘搜，支持搜索百度、夸克等网盘资源，全网搜索短句、电影、游戏、电视剧等资源",
+    "url": "https://www.bilibili.com/video/BV1xLaHzeEFH/",
+    "context": "找不到想要的网试试这一个网盘搜索神器盘搜，支持搜索百度、夸克等网盘资源，全网搜索短句、电影、游戏、电视剧等资源"
+  },
+  {
+    "title": "Github开源项目，必备浏览器插件，SingleFile一键网页保存工具",
+    "url": "https://www.bilibili.com/video/BV1VXeMzUEzA/",
+    "context": "Github开源项目，必备浏览器插件，SingleFile一键网页保存工具"
+  },
+  {
+    "title": "SillyTarvern【酒馆】 | 实现局域网内其他手机电脑访问，多用户模式开放不同账号，记忆增强插件让AI记得更久，这里都准备好了。",
+    "url": "https://www.bilibili.com/video/BV1H4YrzQESj/",
+    "context": "SillyTarvern【酒馆】 | 实现局域网内其他手机电脑访问，多用户模式开放不同账号，记忆增强插件让AI记得更久，这里都准备好了。"
+  },
+  {
+    "title": "SillyTarvern【酒馆】 | 接入gemini，上下文与思维链设置，自动生图功能插件，这里都准备好了。",
+    "url": "https://www.bilibili.com/video/BV1LMbnzzECj/",
+    "context": "SillyTarvern【酒馆】 | 接入gemini，上下文与思维链设置，自动生图功能插件，这里都准备好了。"
+  },
+  {
+    "title": "一款AI角色扮演沉浸式文游酒馆【SillyTarvern】，从资源收集整理到初始配置再到基础使用，一个视频让你拥有赛博女友，成为痞老板",
+    "url": "https://www.bilibili.com/video/BV1KRbcziEg2/",
+    "context": "一款AI角色扮演沉浸式文游酒馆【SillyTarvern】，从资源收集整理到初始配置再到基础使用，一个视频让你拥有赛博女友，成为痞老板"
+  },
+  {
+    "title": "全网免费的GPT-5咋样？多模态AI模型能自主选择gpt-4o等模型，openAI发布GPT-5。",
+    "url": "https://www.bilibili.com/video/BV1f3bPzaE72/",
+    "context": "全网免费的GPT-5咋样？多模态AI模型能自主选择gpt-4o等模型，openAI发布GPT-5。"
+  },
+  {
+    "title": "想要一键下载4K视频、番剧、动画等b站视频，哔哩哔哩工具箱支持Win和Mac系统，支持多种格式下载。",
+    "url": "https://www.bilibili.com/video/BV1vTt2zGEDF/",
+    "context": "想要一键下载4K视频、番剧、动画等b站视频，哔哩哔哩工具箱支持Win和Mac系统，支持多种格式下载。"
+  },
+  {
+    "title": "开源UI设计组件库网站分享！一键获取，复制粘贴，前端设计开发必备！",
+    "url": "https://www.bilibili.com/video/BV1164ZzsEeA/",
+    "context": "开源UI设计组件库网站分享！一键获取，复制粘贴，前端设计开发必备！"
+  },
+  {
+    "title": "不敲一行代码，让AI帮我直接开发小工具，零基础AI编程实战学习",
+    "url": "https://www.bilibili.com/video/BV1fvtgzjE2W/",
+    "context": "不敲一行代码，让AI帮我直接开发小工具，零基础AI编程实战学习"
+  },
+  {
+    "title": "文件后缀怎么显示和隐藏？如何识别文件格式？赛博扫盲系列之文件后缀",
+    "url": "https://www.bilibili.com/video/BV1AThEzJEnq/",
+    "context": "文件后缀怎么显示和隐藏？如何识别文件格式？赛博扫盲系列之文件后缀"
+  },
+  {
+    "title": "下载网页视频，白嫖资源嗅探？快来看看Github开源项目「猫抓」，电脑必备浏览器插件",
+    "url": "https://www.bilibili.com/video/BV1Ng8jz1EXC/",
+    "context": "下载网页视频，白嫖资源嗅探？快来看看Github开源项目「猫抓」，电脑必备浏览器插件"
+  },
+  {
+    "title": "赛博扫盲 | 压缩文件如何解压和分卷解压？解压缩软件整理",
+    "url": "https://www.bilibili.com/video/BV1cebDzPEb4/",
+    "context": "赛博扫盲 | 压缩文件如何解压和分卷解压？解压缩软件整理"
+  },
+  {
+    "title": "网页视频下载？字幕自动生成？AI翻译？视频生成字幕软件VideoCaptioner一次性都帮你解决",
+    "url": "https://www.bilibili.com/video/BV18zgizZEJW/",
+    "context": "网页视频下载？字幕自动生成？AI翻译？视频生成字幕软件VideoCaptioner一次性都帮你解决"
+  },
+  {
+    "title": "找不到看剧网站和看剧软件？这里有3种看剧思路，手把手教你实现看剧自由，还有一些Github刷剧的项目。",
+    "url": "https://www.bilibili.com/video/BV1FvgczyE3u/",
+    "context": "找不到看剧网站和看剧软件？这里有3种看剧思路，手把手教你实现看剧自由，还有一些Github刷剧的项目。"
+  },
+  {
+    "title": "PDF免费编辑工具——PDFGear，功能强大到离谱！PDF转Word等等，以及其他文档转PDF。",
+    "url": "https://www.bilibili.com/video/BV1m7uBzoEtx/",
+    "context": "PDF免费编辑工具——PDFGear，功能强大到离谱！PDF转Word等等，以及其他文档转PDF。"
+  },
+  {
+    "title": "程序员做的菜谱有多香？HowToCook 项目体验",
+    "url": "https://www.bilibili.com/video/BV1cyGJzME4x/",
+    "context": "程序员做的菜谱有多香？HowToCook 项目体验"
+  },
+  {
+    "title": "如果你想学做饭（烹饪），那么可以了解一下这个项目，How To Cook一款程序员从0开始打造的入手做饭文档",
+    "url": "https://www.bilibili.com/video/BV1yVGEzzErT/",
+    "context": "如果你想学做饭（烹饪），那么可以了解一下这个项目，How To Cook一款程序员从0开始打造的入手做饭文档"
+  },
+  {
+    "title": "CatTime十分简单的计时器项目，可以拿来当作番茄钟使用，兄弟们，自律起来！！！",
+    "url": "https://www.bilibili.com/video/BV1cX37zcETB/",
+    "context": "CatTime十分简单的计时器项目，可以拿来当作番茄钟使用，兄弟们，自律起来！！！"
+  },
+  {
+    "title": "如果你也喜欢电子书，可以考虑一下这个项目Olib",
+    "url": "https://www.bilibili.com/video/BV1DAgQzBEqk/",
+    "context": "如果你也喜欢电子书，可以考虑一下这个项目Olib"
+  },
+  {
+    "title": "如果你需要一款聚合性的新闻信息聚合阅读，可以试试这个网站",
+    "url": "https://www.bilibili.com/video/BV1TAgfzXEhy/",
+    "context": "如果你需要一款聚合性的新闻信息聚合阅读，可以试试这个网站"
+  },
+  {
+    "title": "如果你觉得需要一款简洁好用的直播软件，可以试试这一款看直播软件",
+    "url": "https://www.bilibili.com/video/BV1SJKdzBEy5/",
+    "context": "如果你觉得需要一款简洁好用的直播软件，可以试试这一款看直播软件"
+  },
+  {
+    "title": "如果你需要一款自定义的桌面程序，试试这款SeelenUI",
+    "url": "https://www.bilibili.com/video/BV1JoKuzoE2B/",
+    "context": "如果你需要一款自定义的桌面程序，试试这款SeelenUI"
+  },
+  {
+    "title": "如果你需要一款能够视频转字幕，音频转字幕的工具，可以考虑这一个自动字幕工具——AsrTools",
+    "url": "https://www.bilibili.com/video/BV17JN2z9EEe/",
+    "context": "如果你需要一款能够视频转字幕，音频转字幕的工具，可以考虑这一个自动字幕工具——AsrTools"
+  },
+  {
+    "title": "如果你需要一款听音乐的软件，这款开源的音乐播放器可能适合你 |  MusicFree",
+    "url": "https://www.bilibili.com/video/BV1s4NszzEhq/",
+    "context": "如果你需要一款听音乐的软件，这款开源的音乐播放器可能适合你 | MusicFree"
+  }
+]
